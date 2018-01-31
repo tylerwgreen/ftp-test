@@ -12,6 +12,7 @@
 	},
 	"dependencies": {
 		"ftp": "~0.3.10",
-		"ftp-srv": "~2.15.0"
+		"ftp-srv": "~2.15.0",
+		"chokidar": "~2.0.0"
 	}
 }
