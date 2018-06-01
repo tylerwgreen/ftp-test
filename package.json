@@ -1,0 +1,17 @@
+{
+	"name": "ftp-test",
+	"niceName": "FTP Test",
+	"license": "UNLICENSED",
+	"version": "1.0.0",
+	"private": true,
+	"description": "FTP Test",
+	"author": {
+		"name": "Tyler Green",
+		"email": "freshgreenmedia@gmail",
+		"url": "http://freshgreenmedia.com/"
+	},
+	"dependencies": {
+		"ftp": "~0.3.10",
+		"ftp-srv": "~2.15.0"
+	}
+}
